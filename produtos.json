@@ -1,0 +1,24 @@
+[
+  {
+    "codigo": 101,
+    "nome": "SABONETE",
+    "quantidade": 5,
+    "preco": 7.99,
+    "total": 39.95
+  },
+  {
+    "codigo": 102,
+    "nome": "PASTA D'ENTE",
+    "quantidade": 6,
+    "preco": 13.79,
+    "total": 82.74
+  },
+  {
+    "codigo": 202,
+    "nome": "ARROZ",
+    "quantidade": 3,
+    "preco": 33.5,
+    "total": 100.5,
+    "criadoEm": "2026-11-12T01:03:25.386Z"
+  }
+]
